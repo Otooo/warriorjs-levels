@@ -1,5 +1,1 @@
-
-### Execute this command:
-```
-npx warriorjs
-```
+warriorjs/xogun-baby-steps/README.md
