@@ -1,5 +1,8 @@
+## Execute this command:  
+  ```
+  npm install --local @warriorjs/cli
+  npx warriorjs
+  ```
 
-### Execute this command:
-```
-npx warriorjs
-```
+## Warriors
+  > **xogun** 🇧🇷
